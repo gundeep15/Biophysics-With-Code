@@ -12,6 +12,6 @@ Programming Language: Wolfram Mathematica
 
 Highlights: 
 
-![project_1_highlight_a.png](https://github.com/gundeep15/Biophysics-With-Code/blob/master/Project_1_Highlight_a.png) 
+<img src="Project_1_Highlight_a.png" width="480">
 
 <img src="Project_1_Highlight_b.PNG" width="480">
