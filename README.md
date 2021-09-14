@@ -26,3 +26,10 @@ The top figure above shows the key principles behind QS mechanism in _Vibrio Fis
 **Citation for originial paper**: Lim Y. B., Thingna J., Cao J. & Lim C. T. (2017), 'Single molecule and multiple bond characterization of catch bond associated cytoadhesion in malaria' _Scientic Reports_ 7(1).
 [doi:10.1038/s41598-017-04352-x](https://www.nature.com/articles/s41598-017-04352-x)
 
+**Brief Summary**: Patients of malaria show abnormally high levels of infected red blood cell (iRBC) adhesion to the membrane proteins expressed in the endothelial vessels. This is one of the main causes that lead to severe disease pathology in malarial patients like multiple organ failure and cerebral malaria. In this study, the authors have taken a biophysical approach to study the interactions between iRBCs and specific endothelial receptor proteins - CD36 and ICAM-1. The method described in this paper is very elegant as it is used to simultaneously study protein-ligand adhesive interactions at single-molecule and single-cell scale. The highlight of this study is the result that even though the dissociation rates of ICAM-1 and CD-36 are similar to each other in magnitude, the catch-bond like behavior and a high re-association rates of ICAM-1 make its adhesion to iRBCs much more significant. 
+
+**Programming Language**: R (compiled and verified in RStudio)
+
+**Report**: Available 
+
+**Highlights**: 
