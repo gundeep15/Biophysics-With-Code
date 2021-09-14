@@ -14,7 +14,5 @@ Highlights:
 
 
 <img src="Project_1_Highlight_a.png" width="480"> 
-<em> Fig 1.1: Production of autoinducer molecule (A<sub>ex</sub> in the model) is the key to the production of the QS mechanism
- </em>
-
 <img src="Project_1_Highlight_b.PNG" width="480">
+Fig 1.1: Production of autoinducer molecule (A<sub>ex</sub> in the model) is the key to the production of the QS mechanism
