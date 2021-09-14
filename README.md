@@ -33,3 +33,13 @@ The top figure above shows the key principles behind QS mechanism in _Vibrio Fis
 **Report**: Available 
 
 **Highlights**: 
+
+<p>
+<img src="Project_1_Highlight_b.png" width="480"> 
+</p>
+
+The figure above shows the bond lifetimes of the two endothelial proteins to iRBC cells - CD36 (left) which shows a slip-like behavior and ICAM-1 (right) which shows a catch-like behavior at single molecule protein-ligand interaction. According to the figure result above, both theory and experiments suggest that even in multiple bond case, the behavior remains the same - which is an impressive finding! 
+
+**Additional note**: For this parameter-fit analysis, you will need to have access to the experimental data. I was able to obtain the data by contacting the corresponding author as mentioned on the publication. If you would like to follow through the parameter-fit analysis, I would recommend emailing the corresponding author directly.
+
+## Project 3: Image Segmentation of Fluorescent _E. Coli_ Cells flowing in a Wide Mother Machine using a U-Net Architecture
