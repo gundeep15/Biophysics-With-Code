@@ -12,4 +12,4 @@ Programming Language: Wolfram Mathematica
 
 Highlights: 
 
-![project_1_highlight_a.png](https://github.com/gundeep15/Biophysics-With-Code/blob/master/Project_1_Highlight_a.png)
+![project_1_highlight_a.png](https://github.com/gundeep15/Biophysics-With-Code/blob/master/Project_1_Highlight_a.png) ![project_1_highlight_b.png](https://github.com/gundeep15/Biophysics-With-Code/blob/master/Project_1_Highlight_b.png)
