@@ -11,3 +11,5 @@ Brief Summary: Quorum sensing (QS) is a cell-cell bacterial communication mechan
 Programming Language: Wolfram Mathematica 
 
 Highlights: 
+
+![project_1_highlight_a.png](https://github.com/gundeep15/Biophysics-With-Code/blob/master/Project_1_Highlight_a.png)
