@@ -13,8 +13,4 @@ Programming Language: Wolfram Mathematica
 Highlights: 
 
 
-<img src="Project_1_Highlight_a.png" width="480"> 
-<figcaption align = "center">Figure 1: [Left] [Source] (http://photobiology.info/Lin.html)
-
-
-<img src="Project_1_Highlight_b.PNG" width="480">
+<img src="Project_1_Highlight_a.png" width="480"> <img src="Project_1_Highlight_b.PNG" width="480">
