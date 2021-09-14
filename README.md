@@ -19,6 +19,10 @@ Welcome to Biophysics with Code!
 <img src="Project_1_Highlight_b.PNG" width="480">
 </p>
 
-
 The top figure above shows the key principles behind QS mechanism in _Vibrio Fischeri_ [source](http://photobiology.info/Lin.html). The bottom figure shows the switch-like behavior of the gene to induce photoluminiscence depending upon values of the system variables defined in the original paper. Shading scale is shown as a legend, where the numbers correspond the time it takes for the system to asymptotically reach either of the two stable steady states - on and off.  
+
+## Project 2: Force-Dependent Adhesion of Malaria-Infected Red Blood Cells with ICAM-1 and CD36
+
+**Citation for originial paper**: Lim Y. B., Thingna J., Cao J. & Lim C. T. (2017), 'Single molecule and multiple bond characterization of catch bond associated cytoadhesion in malaria' _Scientic Reports_ 7(1).
+[doi:10.1038/s41598-017-04352-x](https://www.nature.com/articles/s41598-017-04352-x)
 
