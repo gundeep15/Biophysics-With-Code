@@ -15,4 +15,5 @@ Highlights:
 
 <img src="Project_1_Highlight_a.png" width="480"> 
 <img src="Project_1_Highlight_b.PNG" width="480">
-Fig 1.1: Production of autoinducer molecule (A<sub>ex</sub> in the model) is the key to the production of the QS mechanism
+The top figure above shows the key principles behind QS mechanism in _Vibrio Fischeri_ [source](http://photobiology.info/Lin.html). The bottom figure shows the switch-like behavior of the gene to induce photoluminiscence depending upon values of the system variables defined in the original paper. Shading scale is shown as a legend, where the numbers correspond the time it takes for the system to asymptotically reach either of the two stable steady states - on and off.  
+
