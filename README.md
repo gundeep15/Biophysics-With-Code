@@ -12,4 +12,4 @@ Programming Language: Wolfram Mathematica
 
 Highlights: 
 
-<img src="Project_1_Highlight_a.png" width="480"> <img src="Project_1_Highlight_b.PNG" width="480">
+<img src="Project_1_Highlight_a.png" width="480"><em>image_caption</em> <img src="Project_1_Highlight_b.PNG" width="480">
