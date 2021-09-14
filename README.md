@@ -2,15 +2,17 @@
 
 Welcome to Biophysics with Code!
 
-**Project 1: Quorum Sensing in _V. Fischeri_**
+## Project 1: Quorum Sensing in _V. Fischeri_
 
-Citation for originial paper: James, S., Nilsson, P., James, G., Kjelleberg, S. & Fagerström, T. (2000) 'Luminescence control in the marine bacterium _Vibrio Fischeri_: an analysis of the dynamics of lux regulation', _Journal of Molecular Biology_, 296(4), Pages 1127-1137 [doi:10.1006/jmbi.1999.3484](https://pubmed.ncbi.nlm.nih.gov/10686109/).
+**Citation for originial paper**: James, S., Nilsson, P., James, G., Kjelleberg, S. & Fagerström, T. (2000) 'Luminescence control in the marine bacterium _Vibrio Fischeri_: an analysis of the dynamics of lux regulation', _Journal of Molecular Biology_, 296(4), Pages 1127-1137 [doi:10.1006/jmbi.1999.3484](https://pubmed.ncbi.nlm.nih.gov/10686109/).
 
-Brief Summary: Quorum sensing (QS) is a cell-cell bacterial communication mechanism that allows the bacterial species to cooperatively regulate specific gene expressions in response to changes in their local population density. The term 'quorum' in QS is used in its most literal sense to denote the fact that the gene expression in a bacterial population is strongly induced only when the 'quorum' threshold requirement is met. In this paper, James et al have attempted to model the phenotypic on-off switch of bioluminescence in _V. fischeri_ using a general chemical kinetics approach of lux regulatory system that controls the production of light in the bacteria. A key finding of the research is that, even though the overall mechanism of cell-cell communication in _Vibrio Fischeri_ is through the QS, there exists a certain range of conditions, where a single free marine bacterial cell can also luminesce light.
+**Brief Summary**: Quorum sensing (QS) is a cell-cell bacterial communication mechanism that allows the bacterial species to cooperatively regulate specific gene expressions in response to changes in their local population density. The term 'quorum' in QS is used in its most literal sense to denote the fact that the gene expression in a bacterial population is strongly induced only when the 'quorum' threshold requirement is met. In this paper, James et al have attempted to model the phenotypic on-off switch of bioluminescence in _V. fischeri_ using a general chemical kinetics approach of lux regulatory system that controls the production of light in the bacteria. A key finding of the research is that, even though the overall mechanism of cell-cell communication in _Vibrio Fischeri_ is through the QS, there exists a certain range of conditions, where a single free marine bacterial cell can also luminesce light.
 
-Programming Language: Wolfram Mathematica 
+**Programming Language**: Wolfram Mathematica 
 
-Highlights: 
+**Report**: Available 
+
+**Highlights**: 
 
 <p>
 <img src="Project_1_Highlight_a.png" width="480"> 
