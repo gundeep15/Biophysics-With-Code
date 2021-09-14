@@ -13,12 +13,9 @@ Programming Language: Wolfram Mathematica
 Highlights: 
 
 <figure>
-<img src="https://images.unsplash.com/photo-1549740425-5e9ed4d8cd34?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwzOTU0NTB8fGVufDB8fHw%3D&w=1000&q=80" alt="Trulli" style="width:100%">
-<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+<img src="Project_1_Highlight_a.png" width="480"> 
+<figcaption align = "center">Figure 1: [Left] [Source](http://photobiology.info/Lin.html)</figcaption>
 </figure>
 
-
-<img src="Project_1_Highlight_a.png" width="480"> 
-<em>Figure 1: [Left] [Source](http://photobiology.info/Lin.html) </em>
 
 <img src="Project_1_Highlight_b.PNG" width="480">
