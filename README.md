@@ -48,10 +48,10 @@ The figure above shows the bond lifetimes of the two endothelial proteins to iRB
 ' _arXiv_.[arXiv:1807.01297](https://arxiv.org/abs/1807.01297)
 
 **Brief Summary**: 
-Goal: Given separate structures of two proteins, Want to predict which surfaces of the two proteins will come into contact upon binding; 
-Workflow: Using PDB files of paired protein structures, train an ML model on atomic coordinates, transformed into 3D images, to make interface predictions;
-Novelty: Only uses spatial coordinates and identities of atoms as inputs, instead of relying on hand-crafted features;
-Motivation: Potential applications in protein engineering and drug development.
+- Goal: Given separate structures of two proteins, Want to predict which surfaces of the two proteins will come into contact upon binding; 
+- Workflow: Using PDB files of paired protein structures, train an ML model on atomic coordinates, transformed into 3D images, to make interface predictions;
+- Novelty: Only uses spatial coordinates and identities of atoms as inputs, instead of relying on hand-crafted features;
+- Motivation: Potential applications in protein engineering and drug development.
 
 
 ## Project 3: Image Segmentation of Fluorescent _E. Coli_ Cells flowing in a Wide Mother Machine using a U-Net Architecture
