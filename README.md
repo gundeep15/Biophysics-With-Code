@@ -80,13 +80,12 @@ The model has a Siamese-like architecture (which is generally used to do compari
 
 **Highlights**: 
 
-
-
 <p>
 <img src="https://user-images.githubusercontent.com/39496828/133945071-fbefd896-0259-476b-aced-82740d2f8871.png" width="240">
 <img src="https://user-images.githubusercontent.com/39496828/133945102-9606bb7d-ff45-4804-9a16-2822e2fc43d2.png" width="480">
 </p>
 
+The first image above shows the periodicity observed in the prescription of antibiotic drugs, which makes it essential to redefine the mathematical analysis of basic reproduction number, R<sub>0</sub>. The highlight of this paper for me is finding and verifying the mathematical and physical basis of R<sub>0</sub> with periodic inputs. The model is then used to run numerical simulations to observe how sensitive is R<sub>0</sub> to each of the model parameters. The study finds that increasing the environmental cleaning/disinfection rate (γb) from 0.6 to 1 reduces the basic reproduction number from 1.705 to 1.065, hence making environmental cleaning most important intervention to control the infection 
 
 
 
