@@ -61,7 +61,7 @@ The figure above shows the bond lifetimes of the two endothelial proteins to iRB
 
 <p>
 <img src="Project_3_Highlight_a.png" width="480"> 
-<img src="Project_3_Highlight_b.png" width="480">
+<img src="Project_3_Highlight_b.png" width="180">
 </p>
 
 The model has a Siamese-like architecture (which is generally used to do comparison tasks like facial recognition) to train on identifying if two 3d pieces of different protein structures have affinity towards one another by combining their structural and atomic interactions. The model uses two different datasets that have both individual and co-crystal structures for training (DIPS) and testing (DB5). While the original authors claim that their trained model outperforms all other methods by giving a testing accuracy of 86%, in this reproduction I have found the accuracy to be 76% on DB5. The discrepancy can be a result of differences in implementation, computational resources, or sheer randomness. 
