@@ -80,7 +80,12 @@ The model has a Siamese-like architecture (which is generally used to do compari
 
 **Highlights**: 
 
-![image](https://user-images.githubusercontent.com/39496828/133945071-fbefd896-0259-476b-aced-82740d2f8871.png)
+
+
+<p>
+<img src="https://user-images.githubusercontent.com/39496828/133945071-fbefd896-0259-476b-aced-82740d2f8871.png" width="280">
+</p>
+
 
 
 
