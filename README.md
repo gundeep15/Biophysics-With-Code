@@ -104,7 +104,7 @@ The first image above shows the periodicity observed in the prescription of anti
 
 <p>
 <img src="https://user-images.githubusercontent.com/39496828/133947130-cd128682-6b4d-442b-bce1-fe4f332ca539.png" width="400">
-<img src="https://user-images.githubusercontent.com/39496828/133947150-e12580d6-8702-4bef-95f5-03558a99176c.png" width="400">
+<img src="https://user-images.githubusercontent.com/39496828/133947150-e12580d6-8702-4bef-95f5-03558a99176c.png" width="360">
 </p>
 
 
