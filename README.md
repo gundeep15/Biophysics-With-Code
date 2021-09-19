@@ -42,4 +42,16 @@ The figure above shows the bond lifetimes of the two endothelial proteins to iRB
 
 **Additional note**: For this parameter-fit analysis, you will need to have access to the experimental data. I was able to obtain the data by contacting the corresponding author as mentioned on the publication. If you would like to follow through the parameter-fit analysis, I would recommend emailing the corresponding author directly.
 
+## Project 4: Predicting Protein-Protein Interface Using 3D-CNN - Solving a 3D Jigzaw Puzzle
+
+**Citation for originial paper**: Townshend R. J. L., Bedi R., Suriana P. A., Dror R. O. (2018), 'End-to-End Learning on 3D Protein Structure for Interface Prediction
+' _arXiv_.[arXiv:1807.01297](https://arxiv.org/abs/1807.01297)
+
+**Brief Summary**: 
+Goal: Given separate structures of two proteins, Want to predict which surfaces of the two proteins will come into contact upon binding; 
+Workflow: Using PDB files of paired protein structures, train an ML model on atomic coordinates, transformed into 3D images, to make interface predictions;
+Novelty: Only uses spatial coordinates and identities of atoms as inputs, instead of relying on hand-crafted features;
+Motivation: Potential applications in protein engineering and drug development.
+
+
 ## Project 3: Image Segmentation of Fluorescent _E. Coli_ Cells flowing in a Wide Mother Machine using a U-Net Architecture
