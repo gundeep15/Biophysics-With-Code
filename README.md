@@ -19,7 +19,7 @@ Welcome to Biophysics with Code!
 <img src="Project_1_Highlight_b.PNG" width="480">
 </p>
 
-The top figure above shows the key principles behind QS mechanism in _Vibrio Fischeri_ [source](http://photobiology.info/Lin.html). The bottom figure shows the switch-like behavior of the gene to induce photoluminiscence depending upon values of the system variables defined in the original paper. Shading scale is shown as a legend, where the numbers correspond the time it takes for the system to asymptotically reach either of the two stable steady states - on and off.  
+The top figure above shows the key principles behind QS mechanism in _Vibrio Fischeri_ [(source)](http://photobiology.info/Lin.html). The bottom figure shows the switch-like behavior of the gene to induce photoluminiscence depending upon values of the system variables defined in the original paper. Shading scale is shown as a legend, where the numbers correspond the time it takes for the system to asymptotically reach either of the two stable steady states - on and off.  
 
 ## Project 2: Force-Dependent Adhesion of Malaria-Infected Red Blood Cells with ICAM-1 and CD36
 
