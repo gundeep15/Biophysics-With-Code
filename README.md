@@ -89,5 +89,22 @@ The model has a Siamese-like architecture (which is generally used to do compari
 
 The first image above shows the periodicity observed in the prescription of antibiotic drugs, which makes it essential to redefine the mathematical analysis of basic reproduction number, R<sub>0</sub>. The highlight of this paper for me is finding and verifying the mathematical and physical basis of R<sub>0</sub> with periodic inputs. The model is then used to run numerical simulations to observe how sensitive is R<sub>0</sub> to each of the model parameters. The study finds that increasing the environmental cleaning/disinfection rate (γb) from 0.6 to 1 reduces the basic reproduction number from 1.705 to 1.065, hence making environmental cleaning most important intervention to control the infection 
 
+## Project 5: Feedback Regulation in the Lac Operon
+
+**Citation for originial paper**: Yildirim N., & Mackey M. C. (2003), 'Feedback Regulation in the Lactose Operon: A Mathematical Modeling Study and Comparison with Experimental Data' _Biophysical Journal_, Volume 84, Issue 5, Pages 2841-2851. [https://pubmed.ncbi.nlm.nih.gov/12719218/] (https://doi.org/10.1080/17513758.2018.1510049)
+
+**Brief Summary**: In this study, a model of the induction process in the lac operon is developed which includes much of the relevant biological details and has specific focus on analyzing the role of transcriptional and translational delays in the lac repressor dynamics. The authors have also shown the validity of the model by comparing their model's prediction of β-galactosidase activity and dynamics observed in the experimental studies of the system. 
+
+
+**Programming Language**: Mathematica
+
+**Report**: Not Available
+
+**Highlights**: 
+
+<p>
+<img src="https://user-images.githubusercontent.com/39496828/133947130-cd128682-6b4d-442b-bce1-fe4f332ca539.png" width="300">
+<img src="https://user-images.githubusercontent.com/39496828/133947150-e12580d6-8702-4bef-95f5-03558a99176c.png" width="240">
+</p>
 
 
