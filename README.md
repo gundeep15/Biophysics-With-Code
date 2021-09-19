@@ -42,10 +42,10 @@ The figure above shows the bond lifetimes of the two endothelial proteins to iRB
 
 **Additional note**: For this parameter-fit analysis, you will need to have access to the experimental data. I was able to obtain the data by contacting the corresponding author as mentioned on the publication. If you would like to follow through the parameter-fit analysis, I would recommend emailing the corresponding author directly.
 
-## Project 4: Predicting Protein-Protein Interface Using 3D-CNN - Solving a 3D Jigzaw Puzzle
+## Project 4: Predicting Protein-Protein Interface Using 3D-CNN - Solving a Flexible 3D Jigzaw Puzzle
 
 **Citation for originial paper**: Townshend R. J. L., Bedi R., Suriana P. A., Dror R. O. (2018), 'End-to-End Learning on 3D Protein Structure for Interface Prediction
-' _arXiv_.[arXiv:1807.01297](https://arxiv.org/abs/1807.01297)
+' _arXiv_. [1807.01297] (https://arxiv.org/abs/1807.01297)
 
 **Brief Summary**: 
 - Goal: Given separate structures of two proteins, Want to predict which surfaces of the two proteins will come into contact upon binding; 
@@ -53,5 +53,19 @@ The figure above shows the bond lifetimes of the two endothelial proteins to iRB
 - Novelty: Only uses spatial coordinates and identities of atoms as inputs, instead of relying on hand-crafted features;
 - Motivation: Potential applications in protein engineering and drug development.
 
+**Programming Language**: Python (built and tested with Tensorflow 2.3.0)
+
+**Report**: Available 
+
+**Highlights**: 
+
+<p>
+<img src="Project_3_Highlight_a.png" width="480"> 
+<img src="Project_3_Highlight_b.png" width="480">
+</p>
+
+The model has a Siamese-like architecture (which is generally used to do comparison tasks like facial recognition) to train on identifying if two 3d pieces of different protein structures have affinity towards one another by combining their structural and atomic interactions. The model uses two different datasets that have both individual and co-crystal structures for training (DIPS) and testing (DB5). While the original authors claim that their trained model outperforms all other methods by giving a testing accuracy of 86%, in this reproduction I have found the accuracy to be 76% on DB5. The discrepancy can be a result of differences in implementation, computational resources, or sheer randomness. 
+
+**Additional Note**: Labeled training and testing data are available as tfrecord files through this [link] (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H93ZKK)
 
 ## Project 3: Image Segmentation of Fluorescent _E. Coli_ Cells flowing in a Wide Mother Machine using a U-Net Architecture
