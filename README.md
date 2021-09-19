@@ -60,7 +60,7 @@ The figure above shows the bond lifetimes of the two endothelial proteins to iRB
 **Highlights**: 
 
 <p>
-<img src="Project_3_Highlight_b.png" width="180">
+<img src="Project_3_Highlight_b.png" width="280">
 <img src="Project_3_Highlight_a.png" width="480"> 
 </p>
 
