@@ -35,7 +35,7 @@ The top figure above shows the key principles behind QS mechanism in _Vibrio Fis
 **Highlights**: 
 
 <p>
-<img src="https://user-images.githubusercontent.com/39496828/133946063-c20c9977-bdef-44ca-86be-2dcaab321fda.png" width="200">
+<img src="https://user-images.githubusercontent.com/39496828/133946063-c20c9977-bdef-44ca-86be-2dcaab321fda.png" width="400">
 <img src="https://user-images.githubusercontent.com/39496828/133946011-7ad34b8b-c3e5-49b2-a0d6-cecffcfc5edf.png" width="200"> 
 <img src="Project_2_Highlight_a.png" width="480"> 
 </p>
