@@ -68,4 +68,10 @@ The model has a Siamese-like architecture (which is generally used to do compari
 
 **Additional Note**: Labeled training and testing data are available as tfrecord files through this [link] (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H93ZKK)
 
-## Project 3: Image Segmentation of Fluorescent _E. Coli_ Cells flowing in a Wide Mother Machine using a U-Net Architecture
+## Project 4: Effect of Environmental Factors on Reproduction Number of a Seasonal Infection
+
+**Citation for originial paper**: Huang Q., Huo X., Miller D., & Ruan S. (2019), 'Modeling the seasonality of Methicillin-resistant Staphylococcus aureus infections in hospitals with environmental contamination' _Journal of Biological Dynamics_, 13:sup1, 99-122. [doi.org/10.1080/17513758.2018.1510049] (https://doi.org/10.1080/17513758.2018.1510049)
+
+**Brief Summary**: 
+
+
