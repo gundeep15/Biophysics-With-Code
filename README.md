@@ -68,10 +68,22 @@ The model has a Siamese-like architecture (which is generally used to do compari
 
 **Additional Note**: Labeled training and testing data are available as tfrecord files through this [link] (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H93ZKK)
 
-## Project 4: Effect of Environmental Factors on Reproduction Number of a Seasonal Infection
+## Project 4: Effect of Environmental Conditions on Basic Reproduction Number of a Seasonal Hospital-Acquired Infection
 
-**Citation for originial paper**: Huang Q., Huo X., Miller D., & Ruan S. (2019), 'Modeling the seasonality of Methicillin-resistant Staphylococcus aureus infections in hospitals with environmental contamination' _Journal of Biological Dynamics_, 13:sup1, 99-122. [doi.org/10.1080/17513758.2018.1510049] (https://doi.org/10.1080/17513758.2018.1510049)
+**Citation for originial paper**: Huang Q., Huo X., Miller D., & Ruan S. (2019), 'Modeling the seasonality of Methicillin-resistant Staphylococcus aureus infections in hospitals with environmental contamination' _Journal of Biological Dynamics_, 13:sup1, 99-122. [doi.org/10.1080/17513758.2018.1510049]  (https://doi.org/10.1080/17513758.2018.1510049)
 
-**Brief Summary**: 
+**Brief Summary**: MRSA is one of the most common causes of hospital-acquired infections, often acquired following a surgical or invasive medical procedure during a hospital stay. It is usually treadted with antibiotics, however, as antibiotics are abused to be prescribed to inhibit these kinds of bacteria infections, MRSA has become resistant to many common antibiotics. Furthermore, seasonal variation of MRSA infections in the hospital settings has been widely observed. Combining these two conditions - antibiotic prescription (and resistence) and seasonal variation of the infection, this paper models the evolution of the infection in a hospital setting. Using sensitivity analysis of R<sub>0</sub>, this study finds that environmental cleaning is the most important intervention to control the infection.
+
+**Programming Language**: Mathematica
+
+**Report**: Not Available
+
+**Highlights**: 
+
+<p>
+<img src="(https://user-images.githubusercontent.com/39496828/133945030-9bf122fb-eae2-4a74-b968-d933b23948ae.png" width="280">
+<img src="Project_3_Highlight_a.png" width="480"> 
+</p>
+
 
 
