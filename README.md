@@ -106,7 +106,7 @@ The first image above shows the periodicity observed in the prescription of anti
 <img src="https://user-images.githubusercontent.com/39496828/133947150-e12580d6-8702-4bef-95f5-03558a99176c.png" width="360">
 </p>
 
-## Project 5: Re-training Image Segmentation Method for Microfluidic Device
+## Project 6: Re-training Image Segmentation Method for Microfluidic Device
 
 **Citation for originial paper**: Lugagne J.B., Lin H., Dunlop M.J. (2020) 'DeLTA: Automated cell segmentation, tracking, and lineage reconstruction using deep learning' _PLOS Computational Biology_ 16(4) [doi.org/10.1371/journal.pcbi.1007673] (https://doi.org/10.1371/journal.pcbi.1007673)
 
