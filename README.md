@@ -95,7 +95,6 @@ The first image above shows the periodicity observed in the prescription of anti
 
 **Brief Summary**: In this study, a model of the induction process in the lac operon is developed which includes much of the relevant biological details and has specific focus on analyzing the role of transcriptional and translational delays in the lac repressor dynamics. The authors have also shown the validity of the model by comparing their model's prediction of β-galactosidase activity and dynamics observed in the experimental studies of the system. 
 
-
 **Programming Language**: Mathematica
 
 **Report**: Not Available
@@ -107,4 +106,18 @@ The first image above shows the periodicity observed in the prescription of anti
 <img src="https://user-images.githubusercontent.com/39496828/133947150-e12580d6-8702-4bef-95f5-03558a99176c.png" width="360">
 </p>
 
+## Project 5: Re-training Image Segmentation Method for Microfluidic Device
 
+**Citation for originial paper**: Lugagne J.B., Lin H., Dunlop M.J. (2020) 'DeLTA: Automated cell segmentation, tracking, and lineage reconstruction using deep learning' _PLOS Computational Biology_ 16(4) [doi.org/10.1371/journal.pcbi.1007673] (https://doi.org/10.1371/journal.pcbi.1007673)
+
+**Brief Summary**: Microscopy image analysis is a major bottleneck in quantification of single-cell microscopy data, typically requiring human oversight and curation, which limit both accuracy and throughput. To address this, the authors of this paper developed a deep learning-based image analysis pipeline that performs segmentation, tracking, and lineage reconstruction. In their study, their analysis focuses on time-lapse movies of _E. coli_ cells trapped in a "mother machine" microfluidic device with a width of about one-bacterial generation at a time. However, a lot of times mother machines have wider channel size, so in this study I have re-trained their model to image segment _E. coli_ cells in a wider mother machine channel. The deep learning architecture used is called U-Net which was specifically developed to segment biomedical and biological images, as it specifically focuses on identifying the boundaries correctly. 
+
+**Programming Language**: Python (built and tested with Tensorflow 2.3.0)
+
+**Report**: Not Available
+
+**Highlights**: 
+
+<p>
+<img src="https://user-images.githubusercontent.com/39496828/133948827-0e97ec8d-44d9-45ee-b5f0-06363afa63ff.png" width="500">
+</p>
