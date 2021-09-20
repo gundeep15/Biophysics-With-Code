@@ -91,7 +91,7 @@ The first image above shows the periodicity observed in the prescription of anti
 
 ## Project 5: Feedback Regulation in the Lac Operon
 
-**Citation for originial paper**: Yildirim N., & Mackey M. C. (2003), 'Feedback Regulation in the Lactose Operon: A Mathematical Modeling Study and Comparison with Experimental Data' _Biophysical Journal_, Volume 84, Issue 5, Pages 2841-2851. [https://pubmed.ncbi.nlm.nih.gov/12719218/] (https://doi.org/10.1080/17513758.2018.1510049)
+**Citation for originial paper**: Yildirim N., & Mackey M. C. (2003), 'Feedback Regulation in the Lactose Operon: A Mathematical Modeling Study and Comparison with Experimental Data' _Biophysical Journal_, Volume 84, Issue 5, Pages 2841-2851. [doi.org/10.1016/S0006-3495(03)70013-7] (https://pubmed.ncbi.nlm.nih.gov/12719218/)
 
 **Brief Summary**: In this study, a model of the induction process in the lac operon is developed which includes much of the relevant biological details and has specific focus on analyzing the role of transcriptional and translational delays in the lac repressor dynamics. The authors have also shown the validity of the model by comparing their model's prediction of β-galactosidase activity and dynamics observed in the experimental studies of the system. 
 
